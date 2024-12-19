@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "title": "Snow fall",
+  "description": "Adds falling snow to your blog.",
+  "includes": [
+    "/js/snowfall.js",
+    "snowfall.js"
+  ]
+}
