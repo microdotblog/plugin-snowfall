@@ -4,6 +4,6 @@
   "description": "Adds falling snow to your blog.",
   "includes": [
     "/js/snowfall.js",
-    "snowfall.js"
+    "snowfall.html"
   ]
 }
